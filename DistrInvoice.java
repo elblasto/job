@@ -15,7 +15,7 @@ import java.util.Date;
 
 /**
  * Накладная на выдачу продукции в экспедиции.
- * @author pdkmn
+ * 
  */
 public class DistrInvoice {
     private Integer  id;
